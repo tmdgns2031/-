@@ -1,4 +1,9 @@
-# 수학올림피아드 기출문제 및 풀이
-## 올림피아드 목록
+# Previous Mathematical Olympiad and Solution
+Welcome!
+
+I like math, so I upload previous MO and it's solution that I solve.
+
+Have a nice math day!
+## Olympiad List
 ### KMO
-- 1987년 제1회
+- 1987, 1st
